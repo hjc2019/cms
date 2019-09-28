@@ -1,0 +1,42 @@
+/*头部导航，当前登录用户*/
+.currentuser{
+    color: white;
+}
+.currentuser .form-group{
+    margin-right: 10px;
+}
+
+/*中心内容左侧导航栏*/
+.backcolor{
+    background-color: #000;
+    color: white;
+}
+.backcolor span{
+    margin-right: 10px;
+}
+
+
+/*中心内容右侧，小标题*/
+.title{
+    border: 1px solid #ffffff;
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    height: 30px;
+    line-height: 30px;
+}
+.title .icon{
+    margin-left: 15px;
+}
+
+
+.navbar{
+    margin-bottom: 0;
+}
+.space{
+    margin-top: 10px;
+}
+/*查看详细按钮*/
+.btnspace{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
